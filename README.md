@@ -12,15 +12,17 @@
 
 ## Data Police shootings dataset
 
-- determine  gender and race who is most shooting
+- determine gender and race who is most shooting
 -  determine  the most city and state which peple have been shooted
-- find the most armed usded in shooting
-- find the most year people shooted in
+- find the most armed used in shooting
+- find the most year people shooted in 
+- and so on
 
 ## Retail Data Analytics
 - determine the best store in weekly sales
 -  determine  the bset str type in weekly sales
 - find  the relation between holiday and weekly sales,between holiday and fuel price and between weekly sales and temp
+- and so on
 
 
 ## Tech
