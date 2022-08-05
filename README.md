@@ -33,6 +33,5 @@
 
 
    [dill]: https://www.anaconda.com/>
-## Author 
-alshimaa abdelraof for Electro Pi Scholarship
+
 
