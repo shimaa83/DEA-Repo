@@ -1,4 +1,4 @@
-# DEA-Repo
+# EDA-Repo
 # Data analysis with python
 ## _using kaggel data set_
 
